@@ -135,37 +135,35 @@ for Multi-Class Open Set Classification</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(71).pdf" style="text-decoration:none;">Open-Category Classification by Adversarial Sample Generation</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(72).pdf" style="text-decoration:none;">Query Attack via Opposite-Direction Feature: Towards Robust Image Retrieval</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(73).pdf" style="text-decoration:none;">Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(74).pdf" style="text-decoration:none;">Alignment Based Matching Networks for One-Shot Classification and Open-Set Recognition</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(75).pdf" style="text-decoration:none;">Class Anchor Clustering: A Loss for Distance-based Open Set Recognition</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(76).pdf" style="text-decoration:none;">Classification-Based Anomaly Detection for General Data</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(77).pdf" style="text-decoration:none;">Open Set Domain Adaptation for Image and Action Recognition</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(78).pdf" style="text-decoration:none;">Open Category Detection with PAC Guarantees</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(79).pdf" style="text-decoration:none;">Deep Anomaly Detection with Outlier Exposure</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(80).pdf" style="text-decoration:none;">Unseen Class Discovery in Open-world Classification</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(81).pdf" style="text-decoration:none;">Outlier Exposure with Confidence Control for Out-of-Distribution Detection</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(82).pdf" style="text-decoration:none;">Extreme Value Theory for Open Set Classification - GPD and GEV Classifiers</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(83).pdf" style="text-decoration:none;">Learning and the Unknown: Surveying Steps Toward Open World Recognition</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(84).pdf" style="text-decoration:none;">The Effect of Optimization Methods on the Robustness of Out-of-Distribution Detection Approaches</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(85).pdf" style="text-decoration:none;">Learning Factorized Representations for Open-set Domain Adaptation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(86).pdf" style="text-decoration:none;">DOC: Deep Open Classification of Text Documents</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(87).pdf" style="text-decoration:none;">Experiments on Open-Set Speaker Identification with Discriminatively Trained Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(88).pdf" style="text-decoration:none;">A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Set-Recognition-Paper-List/blob/master/ocr(89).pdf" style="text-decoration:none;">Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy</a></li>
+  
   </ul>
